@@ -30,4 +30,39 @@
     "allSessions": "Все сессии",
     "legalInnovation": "Правовые инновации",
     "legalEducation": "Юридическое образование",
-    "legalTech": "Юридические технологии
+    "legalTech": "Юридические технологии"
+  },
+  "speakers": {
+    "title": "Спикеры",
+    "subtitle": "Познакомьтесь с нашими экспертами",
+    "searchSpeakers": "Поиск спикеров...",
+    "featuredSpeakers": "Ключевые спикеры",
+    "allSpeakers": "Все спикеры"
+  },
+  "location": {
+    "title": "Локация",
+    "subtitle": "Место проведения и как добраться",
+    "address": "Шахрисабз кўчаси 2, Ташкент, Узбекистан",
+    "eventDates": "29-30 мая, 2025",
+    "eventHours": "9:00 - 18:00",
+    "gettingThere": "Как добраться",
+    "nearbyAttractions": "Достопримечательности поблизости"
+  },
+  "about": {
+    "title": "О форуме",
+    "subtitle": "Информация о форуме",
+    "aboutForumTitle": "О форуме",
+    "organizer": "Организатор",
+    "ministryOfJustice": "Министерство юстиции",
+    "republicOfUzbekistan": "Республика Узбекистан"
+  },
+  "admin": {
+    "login": "Вход",
+    "dashboard": "Панель управления",
+    "speakersManagement": "Управление спикерами",
+    "sessionsManagement": "Управление сессиями",
+    "mediaManagement": "Управление медиа",
+    "settings": "Настройки",
+    "logout": "Выход"
+  }
+}
