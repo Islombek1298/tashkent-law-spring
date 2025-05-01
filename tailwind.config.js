@@ -36,6 +36,10 @@ export default {
         'md': '16px',
         'lg': '24px',
         'xl': '32px',
+        'safe-top': 'env(safe-area-inset-top)',
+        'safe-bottom': 'env(safe-area-inset-bottom)',
+        'safe-left': 'env(safe-area-inset-left)',
+        'safe-right': 'env(safe-area-inset-right)',
       },
       boxShadow: {
         'sm': '0 2px 8px rgba(0, 0, 0, 0.06)',
@@ -45,6 +49,9 @@ export default {
       transitionProperty: {
         'fast': '150ms cubic-bezier(0.4, 0, 0.2, 1)',
         'normal': '300ms cubic-bezier(0.4, 0, 0.2, 1)',
+      },
+      height: {
+        'screen-safe': 'calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom))',
       },
     },
     fontFamily: {
