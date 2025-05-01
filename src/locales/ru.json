@@ -1,1 +1,33 @@
-
+{
+  "common": {
+    "loading": "Загрузка...",
+    "welcome": "Добро пожаловать",
+    "home": "Главная",
+    "sessions": "Сессии",
+    "speakers": "Спикеры",
+    "location": "Локация",
+    "media": "Медиа",
+    "about": "О форуме",
+    "register": "Регистрация",
+    "partners": "Партнеры",
+    "viewAll": "Смотреть все",
+    "days": "Дней",
+    "hours": "Часов",
+    "minutes": "Минут",
+    "seconds": "Секунд"
+  },
+  "home": {
+    "eventTitle": "IV Международный юридический форум \"Tashkent Law Spring\"",
+    "eventSubtitle": "Эпоха цифровых технологий: правовой взгляд на будущее",
+    "eventDate": "29-30 мая, 2025",
+    "eventLocation": "Ташкент, Отель Интерконтиненталь",
+    "featuredTitle": "Основные моменты",
+    "aboutForum": "О форуме"
+  },
+  "sessions": {
+    "title": "Сессии",
+    "subtitle": "Программа и расписание конференции",
+    "allSessions": "Все сессии",
+    "legalInnovation": "Правовые инновации",
+    "legalEducation": "Юридическое образование",
+    "legalTech": "Юридические технологии
