@@ -1,0 +1,68 @@
+{
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "welcome": "Xush kelibsiz",
+    "home": "Bosh sahifa",
+    "sessions": "Sessiyalar",
+    "speakers": "Ma'ruzachilar",
+    "location": "Manzil",
+    "media": "Media",
+    "about": "Forum haqida",
+    "register": "Ro'yxatdan o'tish",
+    "partners": "Hamkorlar",
+    "viewAll": "Barchasini ko'rish",
+    "days": "Kun",
+    "hours": "Soat",
+    "minutes": "Daqiqa",
+    "seconds": "Soniya"
+  },
+  "home": {
+    "eventTitle": "IV Xalqaro yuridik forum \"Tashkent Law Spring\"",
+    "eventSubtitle": "Raqamli texnologiyalar davri: kelajakka huquqiy qarash",
+    "eventDate": "29-30 may, 2025",
+    "eventLocation": "Toshkent, Intercontinental mehmonxonasi",
+    "featuredTitle": "Asosiy voqealar",
+    "aboutForum": "Forum haqida"
+  },
+  "sessions": {
+    "title": "Sessiyalar",
+    "subtitle": "Konferensiya dasturi va jadvali",
+    "allSessions": "Barcha sessiyalar",
+    "legalInnovation": "Huquqiy innovatsiyalar",
+    "legalEducation": "Huquqiy ta'lim",
+    "legalTech": "Huquqiy texnologiyalar"
+  },
+  "speakers": {
+    "title": "Ma'ruzachilar",
+    "subtitle": "Bizning mutaxassislar bilan tanishing",
+    "searchSpeakers": "Ma'ruzachilarni qidirish...",
+    "featuredSpeakers": "Asosiy ma'ruzachilar",
+    "allSpeakers": "Barcha ma'ruzachilar"
+  },
+  "location": {
+    "title": "Manzil",
+    "subtitle": "Forum joylashuvi va yo'nalishlar",
+    "address": "Shahrisabz ko'chasi 2, Toshkent, O'zbekiston",
+    "eventDates": "29-30 may, 2025",
+    "eventHours": "9:00 - 18:00",
+    "gettingThere": "Qanday borish kerak",
+    "nearbyAttractions": "Atrofdagi diqqatga sazovor joylar"
+  },
+  "about": {
+    "title": "Forum haqida",
+    "subtitle": "Forum haqida ma'lumot",
+    "aboutForumTitle": "Forum haqida",
+    "organizer": "Tashkilotchi",
+    "ministryOfJustice": "Adliya vazirligi",
+    "republicOfUzbekistan": "O'zbekiston Respublikasi"
+  },
+  "admin": {
+    "login": "Kirish",
+    "dashboard": "Boshqaruv paneli",
+    "speakersManagement": "Ma'ruzachilarni boshqarish",
+    "sessionsManagement": "Sessiyalarni boshqarish",
+    "mediaManagement": "Medialarni boshqarish",
+    "settings": "Sozlamalar",
+    "logout": "Chiqish"
+  }
+}
