@@ -4,10 +4,10 @@ import { FaHome, FaCalendarAlt, FaUsers, FaInfoCircle } from 'react-icons/fa';
 
 const TabNavigation: React.FC = () => {
   return (
-    <nav className="fixed bottom-0 left-0 right-0 bg-card flex justify-around items-center py-4 px-2 border-t border-border shadow-sm z-100 max-w-[500px] mx-auto md:relative md:mt-8 md:shadow-none md:rounded-md">
+    <nav className="fixed bottom-0 left-0 right-0 bg-card flex justify-around items-center py-4 px-2 border-t border-border shadow-sm z-50 w-full md:relative md:mt-8 md:shadow-none md:rounded-md">
       <NavLink 
         to="/" 
-        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-1 ${isActive ? 'text-primary' : 'text-text-light'}`}
+        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-2 ${isActive ? 'text-primary' : 'text-text-light'}`}
         end
       >
         <div className="mb-1 w-6 h-6 flex items-center justify-center">
@@ -21,7 +21,7 @@ const TabNavigation: React.FC = () => {
       
       <NavLink 
         to="/sessions" 
-        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-1 ${isActive ? 'text-primary' : 'text-text-light'}`}
+        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-2 ${isActive ? 'text-primary' : 'text-text-light'}`}
       >
         <div className="mb-1 w-6 h-6 flex items-center justify-center">
           <FaCalendarAlt size={24} />
@@ -31,7 +31,7 @@ const TabNavigation: React.FC = () => {
       
       <NavLink 
         to="/speakers" 
-        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-1 ${isActive ? 'text-primary' : 'text-text-light'}`}
+        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-2 ${isActive ? 'text-primary' : 'text-text-light'}`}
       >
         <div className="mb-1 w-6 h-6 flex items-center justify-center">
           <FaUsers size={24} />
@@ -41,7 +41,7 @@ const TabNavigation: React.FC = () => {
       
       <NavLink 
         to="/about" 
-        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-1 ${isActive ? 'text-primary' : 'text-text-light'}`}
+        className={({ isActive }) => `flex flex-col items-center justify-center text-xs font-medium relative p-2 ${isActive ? 'text-primary' : 'text-text-light'}`}
       >
         <div className="mb-1 w-6 h-6 flex items-center justify-center">
           <FaInfoCircle size={24} />
