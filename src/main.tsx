@@ -4,23 +4,6 @@ import App from './App';
 import './index.css';
 import { I18nextProvider } from 'react-i18next';
 import i18n from './locales/i18n';
-import { defineCustomElements } from '@ionic/pwa-elements/loader';
-
-// Call the element loader after the platform has been bootstrapped
-defineCustomElements(window);
-
-// Register service worker for PWA
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/service-worker.js')
-      .then(registration => {
-        console.log('SW registered: ', registration);
-      })
-      .catch(registrationError => {
-        console.log('SW registration failed: ', registrationError);
-      });
-  });
-}
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
