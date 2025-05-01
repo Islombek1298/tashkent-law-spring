@@ -1,0 +1,68 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "welcome": "Welcome",
+    "home": "Home",
+    "sessions": "Sessions",
+    "speakers": "Speakers",
+    "location": "Location",
+    "media": "Media",
+    "about": "About",
+    "register": "Register",
+    "partners": "Partners",
+    "viewAll": "View All",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "home": {
+    "eventTitle": "IV International Legal Forum \"Tashkent Law Spring\"",
+    "eventSubtitle": "The Age of Digital Technologies: A Legal Perspective on the Future",
+    "eventDate": "29-30 of May, 2025",
+    "eventLocation": "Tashkent, Intercontinental Hotel",
+    "featuredTitle": "Featured",
+    "aboutForum": "About the Forum"
+  },
+  "sessions": {
+    "title": "Sessions",
+    "subtitle": "Conference program and schedule",
+    "allSessions": "All Sessions",
+    "legalInnovation": "Legal Innovation",
+    "legalEducation": "Legal Education",
+    "legalTech": "Legal Tech"
+  },
+  "speakers": {
+    "title": "Speakers",
+    "subtitle": "Meet our expert presenters",
+    "searchSpeakers": "Search speakers...",
+    "featuredSpeakers": "Featured Speakers",
+    "allSpeakers": "All Speakers"
+  },
+  "location": {
+    "title": "Location",
+    "subtitle": "Venue & directions for the forum",
+    "address": "Shahrisabz ko'chasi 2, Tashkent, Uzbekistan",
+    "eventDates": "May 29-30, 2025",
+    "eventHours": "9:00 AM - 6:00 PM",
+    "gettingThere": "Getting There",
+    "nearbyAttractions": "Nearby Attractions"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Information about the forum",
+    "aboutForumTitle": "About the Forum",
+    "organizer": "Organizer",
+    "ministryOfJustice": "Ministry of Justice",
+    "republicOfUzbekistan": "Republic of Uzbekistan"
+  },
+  "admin": {
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "speakersManagement": "Speakers Management",
+    "sessionsManagement": "Sessions Management",
+    "mediaManagement": "Media Management",
+    "settings": "Settings",
+    "logout": "Logout"
+  }
+}
